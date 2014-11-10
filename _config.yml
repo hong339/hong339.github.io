@@ -1,4 +1,3 @@
-baseurl: 
 ghlighter: pygments
 github: [Repository metadata]
 safe: true
